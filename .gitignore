@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# private keys
+my-aws.pem
+
 # testing
 /coverage
 
